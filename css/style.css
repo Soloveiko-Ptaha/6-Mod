@@ -230,10 +230,11 @@ body {
 	text-transform: none;
 	color: #465961;
 	font-size: 13px;
+	line-height: 13px;
 	text-decoration: none;
 }
 .li-submenu a:hover {
-	font: bold italic 14px/14px Arial, sans-serif;
+	font: bold italic 14px/13px Arial, sans-serif;
 	color: #0c3256;
 	text-decoration: underline;
 }
